@@ -21,7 +21,7 @@ async function startGifted() {
           polling: true,
           baseApiUrl: "http://tg-api.giftedtech.co.ke"
         });
-        console.log(chalk.bgHex('#90EE90').hex('#333').bold(' Gifted Md Connected '));
+        console.log(chalk.bgHex('#90EE90').hex('#333').bold(' NOVA-BOT Connected '));
         const miscInfo = await Gifted.getMe();
         console.log(chalk.white.bold('—————————————————'));
         console.log('Bot Info: ', JSON.stringify(miscInfo, null, 2));
@@ -51,5 +51,6 @@ async function startGifted() {
 }
 
 startGifted();
+
 
 
