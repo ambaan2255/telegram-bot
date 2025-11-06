@@ -1,7 +1,7 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'GIFTED-MD'; // Bot Name
 global.botVersion = '2.0.2';
-global.botPic = '#sendimage https://img1.pixhost.to/images/9750/655765255_image.jpg'; // Can use path, can also use link
+global.botPic = 'https://img1.pixhost.to/images/9750/655765255_image.jpg'; // Can use path, can also use link
 global.botToken = '8250940737:AAHrFRHK1J4TphotsK8R-xXg_rpxJmuz58w'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'mauricegift'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
